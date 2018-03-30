@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed"
+        android:icon="@drawable/newspaper"
+        android:title="Feed">
+    </item>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="Chat">
+    </item>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/add"
+        android:title="Add">
+    </item>
+
+    <item
+        android:id="@+id/club"
+        android:icon="@drawable/group"
+        android:title="Club">
+    </item>
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/user"
+        android:title="User">
+    </item>
+
+</menu>

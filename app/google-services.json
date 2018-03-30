@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574954886357",
+    "firebase_url": "https://weconnect-ecd75.firebaseio.com",
+    "project_id": "weconnect-ecd75",
+    "storage_bucket": "weconnect-ecd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574954886357:android:60da87b6fe16262a",
+        "android_client_info": {
+          "package_name": "com.example.git_project.weconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574954886357-tgo4rlo3l6j7l38e3pat4upuh6f5cmbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.git_project.weconnect",
+            "certificate_hash": "e084a2686d9f8efbca5ec8d54c96ec8341b11fbb"
+          }
+        },
+        {
+          "client_id": "574954886357-05rl6b7m90ntf2pvnp494mffhthh55s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUK0qTMJLl9BmizBbirgkW5mtCyZk6se8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574954886357-05rl6b7m90ntf2pvnp494mffhthh55s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
